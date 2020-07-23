@@ -1,6 +1,6 @@
-import 'package:aula2107/cadastro_produto.dart';
+import 'package:aula2107/home/cadastro_produto.dart';
 import 'package:aula2107/home/home_page.dart';
-import 'package:aula2107/lista_produto.dart';
+import 'package:aula2107/home/lista_produto.dart';
 import 'package:flutter/material.dart';
 
 void main() {

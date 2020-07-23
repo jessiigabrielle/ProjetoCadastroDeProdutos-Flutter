@@ -1,5 +1,5 @@
 import 'package:aula2107/data/mock_data.dart';
-import 'package:aula2107/produto.dart';
+import 'package:aula2107/home/produto.dart';
 import 'package:flutter/material.dart';
 //import 'package:flutter/rendering.dart';
 
